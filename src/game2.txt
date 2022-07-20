@@ -1,0 +1,34 @@
+numOfMove = 20
+state = 0
+boardType = 2
+rowBound = 9
+colBound = 9
+...  P...
+...PP ...
+...P P...
+ PPPPPP P
+ P P PP  
+P P    PP
+...P P...
+... P ...
+...  P...
+24D
+54U
+42R
+52R
+50R
+30D
+45L
+65U
+85U
+83R
+64U
+73U
+43D
+45L
+25D
+37L
+56U
+05D
+03R
+48L

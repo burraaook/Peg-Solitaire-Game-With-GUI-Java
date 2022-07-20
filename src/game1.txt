@@ -1,0 +1,20 @@
+numOfMove = 8
+state = 0
+boardType = 1
+rowBound = 7
+colBound = 7
+.. PP..
+.P   P.
+P  PPPP
+PPPPPPP
+  PPPPP
+.P PPP.
+..PPP..
+21R
+02D
+14L
+11R
+32U
+13L
+52U
+40R
